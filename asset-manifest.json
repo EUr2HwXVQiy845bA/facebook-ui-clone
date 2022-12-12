@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/facebook-ui-clone/static/css/main.aaf2f41d.css",
-    "main.js": "/facebook-ui-clone/static/js/main.921451b7.js",
+    "main.js": "/facebook-ui-clone/static/js/main.978a291f.js",
     "static/media/postImage.jpeg": "/facebook-ui-clone/static/media/postImage.f81f9d3f10fb48103e0f.jpeg",
     "static/media/avatar.png": "/facebook-ui-clone/static/media/avatar.04c30266eb59781eda3a.png",
     "static/media/facebook.png": "/facebook-ui-clone/static/media/facebook.4370ac0b2a7136b8ddab.png",
     "index.html": "/facebook-ui-clone/index.html",
     "main.aaf2f41d.css.map": "/facebook-ui-clone/static/css/main.aaf2f41d.css.map",
-    "main.921451b7.js.map": "/facebook-ui-clone/static/js/main.921451b7.js.map"
+    "main.978a291f.js.map": "/facebook-ui-clone/static/js/main.978a291f.js.map"
   },
   "entrypoints": [
     "static/css/main.aaf2f41d.css",
-    "static/js/main.921451b7.js"
+    "static/js/main.978a291f.js"
   ]
 }
